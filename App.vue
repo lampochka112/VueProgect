@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar color="primary" prominent>
+    <v-app-bar color="primary" prominent> 
       <v-app-bar-nav-icon variant="text" @click="drawer = !drawer"></v-app-bar-nav-icon>
       <v-toolbar-title>Мои заметки</v-toolbar-title>
       <v-spacer></v-spacer>
