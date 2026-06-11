@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <v-row class="mb-4">
+    <v-row class="mb-4"> 
       <v-col>
         <v-text-field
           v-model="newNoteText"
